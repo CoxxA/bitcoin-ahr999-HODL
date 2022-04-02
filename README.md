@@ -19,7 +19,7 @@
 *   《[囤比特币：手握私钥的快感](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-wu-zhang)》虽然掌握私钥有点麻烦，但是我们仍然准备自己对自己负责。
 *   《[囤比特币：如何管理私钥？](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-liu-zhang)》管理私钥其实并没有想象的那么麻烦，但我们需要把握好几个原则。
 
-***
+#
 
 **进阶：**
 
@@ -30,20 +30,20 @@
 *   《[囤比特币：币本位思维](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-shi-yi-zhang)》比特币创造了一个全新的世界。在这个世界里，只有一个标准——比特币。【[币本位USD/XBT](http://btcie.com/btc)】
 *   《[囤比特币：心中无币](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-shi-er-zhang)》当理解上升到一定程度，我们不再需要关注任何比特币相关的信息。
 
-***
+#
 
 **贡献：**
 
 *   《[囤比特币：打造强节点](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-shi-san-zhang)》成就最好的自己就是对比特币最大的贡献！
 *   《[囤比特币：运行全节点](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-shi-si-zhang)》私钥决定比特币所有权，全节点捍卫比特币规则。
 
-***
+#
 
 **终章：**
 
 *   《[不忘初心](https://coxxa.github.io/bitcoin-ahr999-HODL/#/zhong-zhang)》系列的最后的一文。
 
-***
+#
 
 **故事：**
 
