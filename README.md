@@ -6,7 +6,7 @@
 
 **序章：**
 
-*   《[知之非难，行之不易](xu-zhang)》为什么要写这个系列。
+*   《[知之非难，行之不易](https://coxxa.github.io/bitcoin-ahr999-HODL/#/xu-zhang)》为什么要写这个系列。
 
 #
 
