@@ -14,7 +14,7 @@
 
 *   《[比特币与理想主义](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-yi-zhang)》我们在参与一场社会实验，它存在失败的可能性，但是我们无怨无悔。
 *   《[下车太早只因愿景太小](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-er-zhang)》这场实验的目标很大，如果一切顺利，比特币的价格可能会在20年后涨到1.6亿人民币。
-*   《[囤比特币：你离财富自由还有多远？](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-er-zhang)》我们没有其他能耐，只能靠囤积比特币，并耐心地等待属于自己的财富自由。
+*   《[囤比特币：你离财富自由还有多远？](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-san-zhang)》我们没有其他能耐，只能靠囤积比特币，并耐心地等待属于自己的财富自由。
 *   《[囤比特币：冲动、孤独、无聊与矛盾](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-si-zhang)》虽然会经历冲动、孤独、无聊和矛盾等心理考验，但是我们已经做好准备囤币。
 *   《[囤比特币：手握私钥的快感](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-wu-zhang)》虽然掌握私钥有点麻烦，但是我们仍然准备自己对自己负责。
 *   《[囤比特币：如何管理私钥？](https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-liu-zhang)》管理私钥其实并没有想象的那么麻烦，但我们需要把握好几个原则。
